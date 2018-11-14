@@ -4,6 +4,9 @@
   "private": true,
   "homepage": "http://alexsorkang.github.io/m4abun",
   "dependencies": {
+    "humanize-duration": "^3.15.3",
+    "moment": "^2.22.2",
+    "pluralize": "^7.0.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
