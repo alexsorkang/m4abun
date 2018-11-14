@@ -2,6 +2,7 @@
   "name": "m4abun",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://alexsorkang.github.io/kiru",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
